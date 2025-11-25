@@ -1,0 +1,6 @@
+"Ingénierie des Systèmes de l’Information et de la Communication (ISIC)"
+"Génie Energétique et Electrique (G2E)"
+"Ingénierie Informatique et Technologies Emergentes (2ITE)"
+"Génie Industriel (GI)"
+"Génie Civil (GC)"
+"Cybersécurité et Confiance Numérique (CCN)"

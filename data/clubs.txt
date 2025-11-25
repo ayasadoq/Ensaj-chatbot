@@ -1,0 +1,21 @@
+
+"il existe 10 clubs a l'ensa 
+TAKAFAN : Club d'art de l'ENSAJ, dédié à l'expression artistique sous toutes ses formes.
+
+ENSAJ OLYMPICS : Club sportif chargé d'organiser des événements sportifs majeurs, notamment les Journées Olympiques (JO) de l'école.
+
+ENACTUS ENSAJ : Club faisant partie du réseau international ENACTUS, il vise à créer des projets entrepreneuriaux et sociaux pour améliorer la qualité de vie des communautés.
+
+FORUM ENSAJ ENTREPRISES : Club spécialisé dans l'organisation du forum annuel de l'école, facilitant la rencontre entre les élèves-ingénieurs et le monde professionnel/les entreprises.
+
+INDENSAJ CLUB : Club de filière représentant et animant la communauté du Génie Industriel (GI) de l'ENSAJ.
+
+ELECTRICA ENSAJ : Club de filière dédié au Génie Électrique et Énergétique (G2E), organisant des activités et événements liés à ce domaine.
+
+SHIP ENSAJ : Club Solidaire Humanitaire, engagé dans des actions de bienfaisance, d'aide sociale et des campagnes de sensibilisation.
+
+APP IN SCIENCES : Club d'informatique et de technologie, axé sur le développement d'applications, la programmation et les sciences numériques.
+
+CEC ENSAJ : Club de filière représentant et animant la communauté du Génie Civil (GC) de l'ENSAJ.
+
+THE GREAT DEBATERS (TGD) : Club des débats, spécialisé dans l'art oratoire, la rhétorique et l'organisation de compétitions de discussion et d'argumentation."
