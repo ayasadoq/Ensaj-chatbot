@@ -8,6 +8,8 @@ Un chatbot intelligent utilisant **Retrieval-Augmented Generation (RAG)** pour r
 - **Ollama** (pour les modèles LLM et embeddings)
   - [Télécharger Ollama](https://ollama.ai)
   - Modèles requis : `mistral` et `nomic-embed-text`
+- **Microphone** (pour la reconnaissance vocale - optionnel)
+- **Haut-parleurs** (pour la synthèse vocale - optionnel)
 
 ## 🚀 Installation
 
@@ -64,21 +66,30 @@ ollama list
 
 ## 📁 Structure des données
 
-Créez un dossier `data/` avec vos documents :
+Le dossier `data/` contient vos documents :
 
 ```
 data/
 ├── clubs.txt          # Informations sur les clubs
 ├── Contact.csv        # Contacts (format CSV)
+├── emploi_*.csv       # Emplois du temps par filière
 ├── ensaj.txt          # Informations générales ENSAJ
 ├── filiere.txt        # Informations sur les filières
-├── profs.txt          # Liste des professeurs
 └── reglement.txt      # Règlements
 ```
 
 **Formats supportés :**
 - `.txt` : Fichiers texte bruts
 - `.csv` : Fichiers CSV
+
+## 🎤 Fonctionnalités
+
+- **Chatbot RAG** : Recherche et génération augmentée par récupération
+- **Reconnaissance vocale** : Posez vos questions par la voix
+- **Synthèse vocale** : Écoutez les réponses du chatbot
+- **Recherche sémantique** : Trouve les documents pertinents avec ChromaDB
+- **Historique de conversation** : Conserve l'historique de vos interactions
+- **Interface intuitive** : Interface Streamlit facile à utiliser
 
 ## ▶️ Lancer le chatbot
 
