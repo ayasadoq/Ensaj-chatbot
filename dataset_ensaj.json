@@ -1,0 +1,497 @@
+[
+    {
+        "instruction": "Quels sont les objectifs principaux du TAKAFAN club à l'ENSAJ ?",
+        "input": "",
+        "output": "Le TAKAFAN est un club dédié à l'expression artistique de l'ENSAJ, visant à encourager la créativité et l'innovation dans les différentes formes d'art."
+    },
+    {
+        "instruction": "Quelle est la principale mission du FORUM ENSAJ ENTREPRISES ?",
+        "input": "",
+        "output": "Le FORUM ENSAJ ENTREPRISES vise à faciliter la rencontre entre les élèves-ingénieurs de l'ENSAJ et le monde professionnel, afin de promouvoir les entreprises et les opportunités d'apprentissage."
+    },
+    {
+        "instruction": "Quels sont les objectifs principaux du SHIP ENSAJ club ?",
+        "input": "",
+        "output": "Le SHIP ENSAJ est un club solidaire humanitaire qui s'engage dans des actions de bienfaisance, d'aide sociale et des campagnes de sensibilisation pour contribuer au bien-être des communautés."
+    },
+    {
+        "instruction": "Qui est Pr. Abdelowahed hajjaji et à quel poste il est ?",
+        "input": "Pr. Abdelowahed hajjaji",
+        "output": "Il est Directeur de l’ENSAJ"
+    },
+    {
+        "instruction": "Quel est le numéro de téléphone du Directeur adjoint chargé des affairespédagogiques ?",
+        "input": "Directeur adjoint chargé des affairespédagogiques",
+        "output": "05 23 34 48 22"
+    },
+    {
+        "instruction": "À quoi sert le numéro de téléphone 05 23 39 56 79 - 05 23 34 ?",
+        "input": "05 23 39 56 79 – 05 23 34",
+        "output": "Il ne est pas précisé, mais peut-être un numéro de téléphone alternatif"
+    },
+    {
+        "instruction": "Qui est le Secrétaire Général du Dahbi ?",
+        "input": "dahbi.a@ucd.ac.ma",
+        "output": "Mr Mohammed ABDELMOUMEN"
+    },
+    {
+        "instruction": "Quel est l'email du Secrétaire Général ?",
+        "input": "",
+        "output": "abdelmoumen99@yahoo.fr"
+    },
+    {
+        "instruction": "Quel est l'heure du cours de Réseaux informatiques [B8] S01-S14 ?",
+        "input": "",
+        "output": "15h30 - 17h20"
+    },
+    {
+        "instruction": "Qui enseigne le cours de Digital Skills [B8] S01-S14 ?",
+        "input": "",
+        "output": "Pr. Hakim Salma"
+    },
+    {
+        "instruction": "Quels sont les horaires des cours de Réseaux informatiques (Pr. El Hassani) [B8] S11-S14 et TP Réseaux informatiques (Gr 1/2) (Pr. El Hassani) [B8] S11-S14 ?",
+        "input": "",
+        "output": "[15h30 - 17h20, TP Réseaux informatiques (Gr 1/2) (Pr. El Hassani) [B8] S11-S14]"
+    },
+    {
+        "instruction": "Quels sont les noms des deux professeurs qui dispensent la classe ue Inférentielle ?",
+        "input": "",
+        "output": "Les deux professeurs sont Pr. El Mehdi Loualid et Pr. El Hassani."
+    },
+    {
+        "instruction": "Quel est l'heure de début de la session de TP pour la classe Ratt: TP Réseaux informatiques (Gr 2) ?",
+        "input": "",
+        "output": "L'heure de début est à 14h00"
+    },
+    {
+        "instruction": "Quel est l'horaire du cours de Business Intelligence pour la Semestre 1-7 ?",
+        "input": "",
+        "output": "08h30 - 10h20"
+    },
+    {
+        "instruction": "Qui enseigne le cours de Systèmes distri et conteneurisation pendant les Semestre 1-7 ?",
+        "input": "",
+        "output": "Pr. N. Assad"
+    },
+    {
+        "instruction": "Quel est l'horaire du cours de Développement d'applications mobiles pour la Semestre 1-14 ?",
+        "input": "",
+        "output": "08h30 - 10h20, 13h30 - 15h20, 15h30 - 17h20"
+    },
+    {
+        "instruction": "Quel est l'horaire de la séance en Langues : Anglais avec Pr. El farouky Hatim ?",
+        "input": "",
+        "output": "Le cours de Langues : Anglais avec Pr. El farouky Hatim a lieu le vendredi."
+    },
+    {
+        "instruction": "Qui est l'enseignant de la séance en Lois de la digitalisation ?",
+        "input": "",
+        "output": "L'enseignant de la séance en Lois de la digitalisation est Pr. Najib Giri."
+    },
+    {
+        "instruction": "Quel est le nom du professeur qui enseigne Langues : Français II ?",
+        "input": "",
+        "output": "Le professeur qui enseigne Langues : Français II s'appelle Pr. Gazari."
+    },
+    {
+        "instruction": "Quel est l'horaire du cours de 'Assurance Qualité Logicielle' pour les étudiants de première année?",
+        "input": "",
+        "output": "08h30 - 10h20"
+    },
+    {
+        "instruction": "Qui est le professeur qui donne le cours 'Architecture et Infrastructure Big Data' ?",
+        "input": "",
+        "output": "Pr. LAZAR"
+    },
+    {
+        "instruction": "Quelle est la matière de choix pour les étudiants de deuxième année qui ont choisi 'IA Générative (NLP, LLM)'?",
+        "input": "",
+        "output": "Matière au choix : IA Générative (NLP, LLM) (Pr. El Moutaouakil) [B3] S01-S14"
+    },
+    {
+        "instruction": "Quel est le nom de l'atelier où se tient la conférence ?",
+        "input": "outaouakil) [B3] S01-S14",
+        "output": "L'atelier se trouve à B3, dans les salles 01-14."
+    },
+    {
+        "instruction": "Quel est le numéro de l'étape de la conférence ?",
+        "input": "outaouakil) [B3] S01-S14",
+        "output": "L'étape de la conférence correspond au numéro B3, allant des 01 aux 14."
+    },
+    {
+        "instruction": "Quel est l'email d'un participant à la conférence ? (nous n'avons pas ce détail dans les données)",
+        "input": "",
+        "output": "Nous n'avons pas les informations de contact des participants, notamment leur email. Nous pourrions essayer de contacter le organisme responsable de la conférence."
+    },
+    {
+        "instruction": "Qui est l'enseignant de Sem 1-7 : Algo Python [B1] ?",
+        "input": "",
+        "output": "Pr. ABADA"
+    },
+    {
+        "instruction": "Quel est le nom de l'enseignant de Sem 8-14 : SI et BD [B3] ?",
+        "input": "",
+        "output": "Pr. M.HANINE"
+    },
+    {
+        "instruction": "Quels sont les deux sujets que Pr. Sadek enseigne sur Mardi, en fonction de la semaine ?",
+        "input": "",
+        "output": "Mathématique appliquée [B12] et SI et BD [B12]"
+    },
+    {
+        "instruction": "Quel est l'horaire du cours de Pr. Asmae YASSINE pour la semaine?",
+        "input": "",
+        "output": "Vendredi"
+    },
+    {
+        "instruction": "Qui enseigne le cours de Management des organisations pour les séries S01-S14 ?",
+        "input": "",
+        "output": "Pr. Rehmani"
+    },
+    {
+        "instruction": "Quel est le nom du professeur enseignant en Développement Web?",
+        "input": "Lazar",
+        "output": "Pr. LAZAR"
+    },
+    {
+        "instruction": "À quelle heure commence la séance de Développement Web?",
+        "input": "",
+        "output": "08h30 - 10h20"
+    },
+    {
+        "instruction": "Quel est le nom du professeur enseignant en Sécurité des réseaux et des architectures IT?",
+        "input": "Saidi",
+        "output": "Pr. Saidi"
+    },
+    {
+        "instruction": "Quel est l'heure du cours de Lois de la digitalisation du vendredi ?",
+        "input": "",
+        "output": "Il s'agit d'un cours à 14h30"
+    },
+    {
+        "instruction": "Qui enseigne le cours de Management SI et de la résilience le samedi ?",
+        "input": "",
+        "output": "Le cours est enseigné par Pr. Malqui"
+    },
+    {
+        "instruction": "Quel est le nom du professeur qui enseigne Lois de la digitalisation le vendredi ?",
+        "input": "",
+        "output": "Il s'agit d'un cours donné par Pr. Najib Giri"
+    },
+    {
+        "instruction": "Quels sont les horaires du cours de Langues : Français V?",
+        "input": "",
+        "output": "Les horaires du cours de Langues : Français V sont 08h30 - 10h20."
+    },
+    {
+        "instruction": "Qui enseigne le cours de Tests et normes de sécurité?",
+        "input": "",
+        "output": "Le cours de Tests et normes de sécurité est enseigné par Pr. KARTIT."
+    },
+    {
+        "instruction": "Quels sont les horaires du cours de Cloud computing et sécurité?",
+        "input": "",
+        "output": "Les horaires du cours de Cloud computing et sécurité sont 10h30 - 12h20 et 15h30 - 17h20."
+    },
+    {
+        "instruction": "Quel est l'horaire de cours du samedi pour la session S08-S14 ?",
+        "input": "Samedi [B3] S08-S14",
+        "output": "Le cours se déroule à ce jour et heure spécifiée."
+    },
+    {
+        "instruction": "Qui est l'enseignant responsable de la leçon de machine learning pour la session S08-S14 ?",
+        "input": "",
+        "output": "L'enseignant en charge de cette leçon est Pr. EL-MOUSSAOUI."
+    },
+    {
+        "instruction": "Quel est l'email du professeur Pr. EL-MOUSSAOUI ?",
+        "input": "",
+        "output": "Malheureusement, il n'est pas disponible dans notre table. Vous pouvez le consulter sur le site de l'ENSAJ ou contacter son assistante."
+    },
+    {
+        "instruction": "Quels sont les cours de langues du lundi?",
+        "input": "",
+        "output": "Les cours de langues du lundi sont : Langues : Français I (Pr. Serhir) [B1] S01-S14"
+    },
+    {
+        "instruction": "Quel est le horaire du cours de Mathématique pour l'ingénieur le lundi?",
+        "input": "",
+        "output": "Le horaire du cours de Mathématique pour l'ingénieur le lundi est : 08h30 - 10h20"
+    },
+    {
+        "instruction": "Qui est le professeur de la cours de Théorie de l'information et codage le mardi?",
+        "input": "",
+        "output": "Le professeur de la cours de Théorie de l'information et codage le mardi est : Pr. El Hassani"
+    },
+    {
+        "instruction": "Quel est le nom du professeur qui enseigne la SI et les bases de données à l'ENSAJ ?",
+        "input": "S01-S14",
+        "output": "Pr. El Moutaouakil"
+    },
+    {
+        "instruction": "Avec quelle fréquence suivent-ils les cours de SI et bases de données ?",
+        "input": "",
+        "output": "S01-S14"
+    },
+    {
+        "instruction": "Quel est l'horaire du cours de SI et bases de données pour le semestre S01-S14 ?",
+        "input": "SI et Bases de données (Pr. El Moutaouakil) [B1]",
+        "output": ""
+    },
+    {
+        "instruction": "Quels sont les horaires de cours pour l'enseignement de la Transmission Numérique (Pr.Fertat) le lundi et mardi?",
+        "input": "",
+        "output": "Les horaires de cours pour l'enseignement de la Transmission Numérique (Pr.Fertat) le lundi et mardi sont respectivement 08h30 - 10h20 et 10h30 - 12h20."
+    },
+    {
+        "instruction": "Qui est l'enseignant de Développement Web le mercredi après-midi et qui enseigne Langues : Français III le jeudi matin?",
+        "input": "",
+        "output": "L'enseignant de Développement Web le mercredi après-midi est Prof. Bousmah, et celui qui enseigne Langue Anglaise III le jeudi matin est Pr El Ouakyly."
+    },
+    {
+        "instruction": "Quel est l'objet du TP pour l'enseignement de la Réseaux des entreprises et Cloud computing (Pr.A.AQQAL) le mercredi et le jeudi?",
+        "input": "",
+        "output": "Le objet du TP pour l'enseignement de la Réseaux des entreprises et Cloud computing (Pr.A.AQQAL) le mercredi et le jeudi est de réaliser une partie des TP S11-S13 et S08-S11 respectivement."
+    },
+    {
+        "instruction": "Quel est le nom du professeur qui enseigne les bases de données avancées?",
+        "input": "",
+        "output": "Le nom du professeur est Pr. I. Hamzaoui."
+    },
+    {
+        "instruction": "À quelle heure a lieu la session de développement multiplateforme ?",
+        "input": "",
+        "output": "La session a lieu à partir de 14h30 et se termine à 16h30."
+    },
+    {
+        "instruction": "Quel est l'objectif du cours de développement multiplateforme ?",
+        "input": "",
+        "output": "L'objectif est d'apprendre les techniques de développement pour des applications multiplateformes."
+    },
+    {
+        "instruction": "Quels sont les horaires de cours du jour ?",
+        "input": "08h30 - 10h20, 10h30 - 12h20, 13h30 - 15h20, 15h30 - 17h20",
+        "output": "Les horaires de cours du jour sont les suivants : 08h30 - 10h20, 10h30 - 12h20, 13h30 - 15h20 et 15h30 - 17h20."
+    },
+    {
+        "instruction": "Qui enseigne les cours d'Internet des Objets et Systèmes Mobiles sur lundi ?",
+        "input": "Prof. Bousmah [B3] S01-S14",
+        "output": "Les cours d'Internet des Objets et Systèmes Mobiles sont enseignés par Prof. Bousmah sur lundi [B3] S01-S14."
+    },
+    {
+        "instruction": "Quels sont les noms de professeurs pour la séance de mardi ?",
+        "input": "Pr. KARTIT, Pr.AQQAL",
+        "output": "Les noms de professeurs pour la séance de mardi sont Pr. KARTIT et Pr.AQQAL."
+    },
+    {
+        "instruction": "Quel est l'horaire du cours 'Méthodologie de la recherche scientifique' avec le professeur El Hassani?",
+        "input": "Vendredi",
+        "output": "Le cours 'Méthodologie de la recherche scientifique' avec le professeur El Hassani a lieu le vendredi."
+    },
+    {
+        "instruction": "Qui est l'auteur du cours 'Ratt: Cloud computing et virtualisation'?",
+        "input": "Pr.A.AQQAL",
+        "output": "Le cours 'Ratt: Cloud computing et virtualisation' a été enseigné par le professeur Pr.A.AQQAL."
+    },
+    {
+        "instruction": "Quel est l'étiquette du cours 'Méthodologie de la recherche scientifique' dans le tableau?",
+        "input": "B2",
+        "output": "L'étiquette du cours 'Méthodologie de la recherche scientifique' indique que c'est un cours du B2 cycle."
+    },
+    {
+        "instruction": "Pour quel type de cours suis-je inscrit lundi matin ?",
+        "input": "Lundi 08h30 - 10h20",
+        "output": "Vous êtes inscrit pour le cours de Langues Etrangéres : Français (Pr Gazari) [B12] S01-S14"
+    },
+    {
+        "instruction": "Quel est l'horaire du cours de Cloud Computing et données (Pr Aqqal) [B3] mardi matin ?",
+        "input": "Mardi 10h30 - 12h20",
+        "output": "Le cours de Cloud Computing et données (Pr Aqqal) [B3] a lieu mardi matin de 10h30 à 12h20"
+    },
+    {
+        "instruction": "Qui est l'enseignant du cours de Langues Etrangéres (Anglais) (Pr Remch) [B7] mercredi après-midi ?",
+        "input": "Mercredi 15h30 - 17h20",
+        "output": "L'enseignant du cours de Langues Etrangéres (Anglais) (Pr Remch) [B7] est Pr. Remch"
+    },
+    {
+        "instruction": "Quel est l'heure du cours de Pr Saih dans la salle S01-S14 ?",
+        "input": "",
+        "output": "B4"
+    },
+    {
+        "instruction": "Qui est Ghita et où se trouve son cours ?",
+        "input": "",
+        "output": "Salle Inconnue"
+    },
+    {
+        "instruction": "Quelle est la salle où se trouve le TP de Apprentissage automatique en Python ?",
+        "input": "",
+        "output": "S01-S14"
+    },
+    {
+        "instruction": "Quel est le nom de l'enseignement que je vais suivre ce matin à 10h30 ?",
+        "input": "",
+        "output": "Traitement du langage et de la parole (Errattahi / Belfrouh) [A6]"
+    },
+    {
+        "instruction": "Quel est l'heure de début de mon cours de Séries Temporelles et Applications ce mercredi ?",
+        "input": "",
+        "output": "08h30"
+    },
+    {
+        "instruction": "Qui est le professeur de Technologies Blockchain que je vais voir ce jeudi à 10h20 ?",
+        "input": "",
+        "output": "Pr Baddi"
+    },
+    {
+        "instruction": "Quel est l'horaire du cours de Blockchain (Pr Baddi) ?",
+        "input": "A7 S01-S08",
+        "output": "Le cours de Blockchain (Pr Baddi) a lieu pendant les séries 1 à 8 (S01-S08)"
+    },
+    {
+        "instruction": "Quel est le nom du professeur qui enseigne l'Apprentissage par renforcement et par les graphiques ?",
+        "input": "A6",
+        "output": "Le nom du professeur est Abdessadek Aaroud"
+    },
+    {
+        "instruction": "Quelle est la salle où se tient le cours de MLOps (Pr El Alaoui) ?",
+        "input": "[Salle Inconnue]",
+        "output": "La salle est inconnue pour ce cours"
+    },
+    {
+        "instruction": "Quels sont les objectifs du cursus de formation à l'ENSAJ ?",
+        "input": "",
+        "output": "Le cursus de formation à l'ENSAJ vise à former des ingénieurs d'état, à offrir des opportunités de réorientation aux étudiants et à renforcer les interactions avec les opérateurs socioéconomiques."
+    },
+    {
+        "instruction": "Comment est organisée la formation à l'ENSAJ ?",
+        "input": "",
+        "output": "La formation à l'ENSAJ est dispensée sous forme d'enseignements théoriques et d'activités pratiques, organisés en modules et semestres. Les étudiants suivent des cours magistraux, des travaux dirigés et des travaux pratiques."
+    },
+    {
+        "instruction": "Quel est le temps de cycle de formation à l'ENSAJ ?",
+        "input": "",
+        "output": "Le cursus de formation à l'ENSAJ s'étend sur cinq années d'étude, divisé en deux cycles : un cycle préparatoire de deux ans et un cycle de formation de trois ans."
+    },
+    {
+        "instruction": "Quelles sont les six filières d'ingénieurs proposées par l'ENSAJ ?",
+        "input": "",
+        "output": "Les six filières d'ingénieurs proposées par l'ENSAJ sont : "
+    },
+    {
+        "instruction": "Combien d'enseignants-rechercheurs travaille actuellement à l'ENSAJ ?",
+        "input": "",
+        "output": "Il y a actuellement 56 enseignants-rechercheurs à l'ENSAJ."
+    },
+    {
+        "instruction": "Quel est le nombre total d'étudiants ingénieurs de l'ENSAJ ?",
+        "input": "",
+        "output": "L'ENSAJ accueille actuellement 1000 étudiants ingénieurs dans ses six filières."
+    },
+    {
+        "instruction": "Qu'est-ce que l'Ingénierie des Systèmes de l’Information et de la Communication (ISIC) et quels sont ses objectifs principaux ?",
+        "input": "",
+        "output": "L'Ingénierie des Systèmes de l’Information et de la Communication (ISIC) est une discipline scientifique qui vise à concevoir, développer, opérer et maintenir les systèmes d’information. Les objectifs principaux de l'ISIC sont de créer des systèmes d'information efficaces, fiables et sécurisés qui répondent aux besoins des organisations et des sociétés."
+    },
+    {
+        "instruction": "Quels sont les domaines d'études liés à la Génie Energétique et Electrique (G2E) ?",
+        "input": "",
+        "output": "La Génie Energétique et Electrique (G2E) est une discipline qui s'intéresse aux systèmes électriques, thermiques et énergétiques pour produire, stocker et distribuer l'énergie. Les domaines d'études liés à la G2E incluent la conception de réseaux électriques, les systèmes d'energisation, la gestion de l'énergie renouvelable, les systèmes électriques intelligents et les technologies énergétiques."
+    },
+    {
+        "instruction": "Qu'est-ce que l'Ingénierie Informatique et Technologies Emergentes (2ITE) et quels sont ses principaux domaines d'étude ?",
+        "input": "",
+        "output": "L'Ingénierie Informatique et Technologies Emergentes (2ITE) est une discipline qui s'intéresse à l'ingénierie des systèmes informatiques et aux technologies émergentes pour répondre aux défis de la société. Les principaux domaines d'étude incluent la conception de logiciels, les systèmes d'informatique distribuée, les réseaux de communication, les systèmes d'information sécurisés, ainsi que l'intelligence artificielle et les données."
+    },
+    {
+        "instruction": "Existe-t-il un cycle préparatoire intégré à l'ENSAJ ?",
+        "input": "",
+        "output": "Oui, il existe un cycle préparatoire intégré durant deux années (première et deuxième année) au sein de la formation d'ingénieur à l'ENSAJ."
+    },
+    {
+        "instruction": "Quel est le nombre total d'années d'études pour obtenir une qualification d'ingénieur à l'ENSAJ ?",
+        "input": "",
+        "output": "La formation d'ingénieur à l'ENSAJ comporte 5 années d'études post-baccalauréat."
+    },
+    {
+        "instruction": "Quel est le nombre de semaines par an dans l'année universitaire à l'ENSAJ ?",
+        "input": "",
+        "output": "Chaque année universitaire est composée de deux semestres, chacun comprenant de 16 à 18 semaines d'enseignement et d'évaluation."
+    },
+    {
+        "instruction": "Qu'est-ce que l'inscription annuelle à l'école signifie exactement et quels sont ses avantages ?",
+        "input": "",
+        "output": "L'inscription annuelle à l'école signifie que les étudiants doivent se réinscrire chaque année pour poursuivre leurs études. Cela permet aux établissements de mettre à jour les informations des étudiants et de s'assurer que tous les élèves sont au courant de leurs obligations scolaires."
+    },
+    {
+        "instruction": "Quels sont les détails sur la carte d'étudiant et qu'est-ce qu'elle représente vraiment pour un élève ingénieur ?",
+        "input": "",
+        "output": "La carte d'étudiant est une pièce d'identité délivrée à tous les étudiants ingénieurs de l'école. Elle constitue la preuve de son identité et permet à l'élève de se présenter dans l'enceinte de l'établissement, de participer aux évaluations et de bénéficier des services offerts par le conseil des étudiants."
+    },
+    {
+        "instruction": "Qu'est-ce qui se passe si un élève manque une session normale d'examen et a-t-il toujours la possibilité de s'inscrire en rattrapage ?",
+        "input": "",
+        "output": "Si un élève manque une session normale d'examen, il ne peut pas automatiquement s'inscrire en rattrapage. Cependant, il peut solliciter une vérification de ses notes et faire appel à la commission des évaluations pour discuter de sa situation. Il est important de noter que chaque élève a un seul droit d'examen de rattrapage par module."
+    },
+    {
+        "instruction": "Qu'est-ce qui se passe si un élève manque une séance d'enseignement ou une activité pratique sans justification ?",
+        "input": "",
+        "output": "L'élève doit justifier son absence auprès de l'administration dans un délai de 48 heures."
+    },
+    {
+        "instruction": "Puis-je changer mon spécialité après avoir choisi celle que j'avais sélectionnée à la fin de la deuxième année du cycle préparatoire intégré ?",
+        "input": "",
+        "output": "Non, le choix des spécialités est arrêté à la fin de la deuxième année du cycle préparatoire intégré."
+    },
+    {
+        "instruction": "Peut-on obtenir une année de réserve si l'on n'a pas satisfait aux conditions de validation spécifiées dans le descriptif de la filière ?",
+        "input": "",
+        "output": "Non, une année est validée si les conditions de validation sont satisfaites."
+    },
+    {
+        "instruction": "Qu'est-ce que se passe si je suis absent sans justification à un contrôle programmé ?",
+        "input": "",
+        "output": "Si tu es absent sans justification à un contrôle programmé, tu obtiens la note zéro pour ce contrôle."
+    },
+    {
+        "instruction": "Quels sont les motifs d'absence acceptés par l'école ?",
+        "input": "",
+        "output": "Les motifs d'absence acceptés sont : maladie ou accident, hospitalisation, convocation administrative, entretien de stage, stage autorisé par l'école et décès d'un proche. Pour ces cas, tu dois fournir la justification correspondante."
+    },
+    {
+        "instruction": "Quelles sanctions s'appliquent à partir de quelle date pour les absences non justifiées ?",
+        "input": "",
+        "output": "À partir de la 8ème absence non justifiée, les sanctions s'appliquent. Les détails exacts de ces sanctions ne sont pas indiqués dans le texte source."
+    },
+    {
+        "instruction": "Quelles sont les conséquences de la 15ème absence pour un élève qui avait accumulé le maximum d'absences dans une session normale du module?",
+        "input": "",
+        "output": "L'élève sera privé de passer la totalité des modules de la session normale du semestre."
+    },
+    {
+        "instruction": "Quelles sont les sanctions pour un élève qui se rend coupable d'une fraude ou d'un manquement à la discipline dans un établissement?",
+        "input": "",
+        "output": "Les sanctions peuvent aller de la modification de la note de TP jusqu'à l'exclusion temporaire ou définitive de l'établissement."
+    },
+    {
+        "instruction": "Quelles sont les conséquences pour un élève qui publie sur Internet ses supports et notes obtenues à l'école?",
+        "input": "",
+        "output": "L'élève sera convoqué en conseil de discipline."
+    },
+    {
+        "instruction": "Est-ce que la prise de photos sans consentement dans les salles de cours est autorisée ?",
+        "input": "",
+        "output": "Non, selon l'article 110, il est strictement interdit de prendre des photos sans consentement."
+    },
+    {
+        "instruction": "Quelle est la conséquence pour un élève qui a pris une photo de son camarade sans autorisation ?",
+        "input": "",
+        "output": "Selon l'article 110, cela peut entraîner des sanctions pouvant aller jusqu'à l'exclusion systématique de l'établissement."
+    },
+    {
+        "instruction": "Est-ce que les élèves peuvent prendre des photos dans les locaux de l'école sans autorisation ?",
+        "input": "",
+        "output": "Non, selon l'article 104 et 109, il est strictement interdit de prendre des photos et/ou des vidéos dans les salles de cours sans une autorisation préalable."
+    }
+]

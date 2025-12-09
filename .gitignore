@@ -1,0 +1,23 @@
+# Ignorer l'environnement virtuel (trop lourd)
+ensajenv/
+venv/
+.env
+
+# Ignorer les fichiers temporaires Python
+__pycache__/
+*.pyc
+
+# Ignorer la base de données locale (elle se recrée toute seule)
+chroma_db/
+
+# Ignorer les gros modèles IA (Téléchargés par Ollama ou Whisper)
+*.gguf
+*.pt
+*.bin
+
+# Ignorer les fichiers audio temporaires (générés par le micro/voix)
+*.wav
+*.mp3
+
+# Ignorer les fichiers systèmes
+.DS_Store
